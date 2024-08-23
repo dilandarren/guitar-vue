@@ -1,6 +1,6 @@
-#Project Guitar
+# Project Guitar
 
-##Vue + Vite
+## Vue + Vite
 
 ## View to production
 
